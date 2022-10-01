@@ -37,4 +37,3 @@ function preserveDecimal(a){ //Parse a as a float (number with decimals) and ret
   return number;
 }
 
-Increment();
